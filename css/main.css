@@ -32,10 +32,9 @@ html {
 
 .banner-content {
   position: absolute;
-  transform: translateX(-50%);
-  left: 50%;
-  bottom: 0;
-  color: white;
-  display: inline;
   width: 100%;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+  color: white;
 }
